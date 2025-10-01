@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Towards a Brilliant Digital Future",
+    "subtitle": "Transforming Your Vision into Leading Technological Achievements",
+    "description": "By adopting the latest innovations and smart solutions, we design and develop integrated systems that revolutionize the way you work, giving you a unique competitive advantage and placing you at the forefront of development and excellence.",
+    "cta": "Contact Us Now",
+    "ctaSecondary": "Explore Our Services"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Pioneers of Innovation in Technical Solutions",
+    "description": "Computing Gate for Information Technology is a company specialized in providing advanced digital solutions, combining experience and innovation to meet the needs of institutions in the modern era.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Providing comprehensive technical solutions based on innovation and quality to enhance business efficiency and achieve sustainable growth."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To become the ideal technical partner that brings about real digital transformation in the business environment."
+    },
+    "values": {
+      "innovation": {
+        "title": "Innovation",
+        "description": "We always strive to innovate digital solutions that exceed our clients' expectations."
+      },
+      "trust": {
+        "title": "Trust",
+        "description": "We build relationships based on transparency and professionalism with our partners."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We are committed to delivering the highest quality standards in all our projects."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "We work in integrated coordination to achieve tangible and sustainable results."
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Technical Solutions",
+    "web": {
+      "title": "Website Design & Development",
+      "description": "We provide integrated solutions for developing websites with modern interfaces and elegant user experience."
+    },
+    "mobile": {
+      "title": "Mobile App Development",
+      "description": "We design innovative smartphone applications that ensure ease of use and high-efficiency performance for iOS and Android systems."
+    },
+    "software": {
+      "title": "Custom Software Development",
+      "description": "We provide software solutions specifically designed to meet your organization's needs and improve workflow effectively."
+    },
+    "ux": {
+      "title": "Advanced User Experience Design",
+      "description": "We provide innovative designs for user interfaces that ensure an exceptional interactive experience for your customers."
+    },
+    "cloud": {
+      "title": "Hosting & Cloud Solutions",
+      "description": "We provide advanced hosting services and flexible cloud solutions that ensure continuity and security of your data."
+    },
+    "analytics": {
+      "title": "Data Analysis & Smart Reports",
+      "description": "We extract strategic insights from data that help in making decisions based on accurate and integrated analysis."
+    }
+  },
+  "projects": {
+    "title": "Our Achievements",
+    "subtitle": "Examples of Our Distinguished Creations",
+    "description": "Our projects reflect our team's experience in providing innovative technical solutions that suit each client's needs.",
+    "filters": {
+      "all": "All Projects",
+      "web": "Websites",
+      "mobile": "Mobile Apps",
+      "desktop": "Desktop Software"
+    },
+    "viewDetails": "Click for Details",
+    "viewMore": "Explore More Achievements"
+  },
+  "testimonials": {
+    "title": "Client Experiences",
+    "subtitle": "Professional Client Opinions"
+  },
+  "contact": {
+    "title": "Contact Us Today",
+    "subtitle": "To Build the Future",
+    "description": "Computing Gate for Information Technology is available on all digital platforms to meet your needs. Contact us to turn your vision into advanced technical reality.",
+    "form": {
+      "title": "Send Your Inquiry",
+      "subtitle": "Our team will contact you within 24 hours",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number (Optional)",
+      "message": "How can we help you?",
+      "privacy": "I agree to the Privacy Policy and Terms & Conditions",
+      "submit": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information",
+      "subtitle": "Feel free to contact us through the following channels",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "address": "Address"
+    }
+  },
+  "footer": {
+    "description": "A company specialized in providing advanced digital solutions, combining experience and innovation.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "rights": "All rights reserved"
+  }
+}
